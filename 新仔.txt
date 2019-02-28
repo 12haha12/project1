@@ -1,0 +1,57 @@
+快出来 %E5%BF%AB%E5%87%BA%E6%9D%A5
+特殊本领 "%E7%89%B9%E6%AE%8A%E6%9C%AC%E9%A2%86"
+考考你 "%E8%80%83%E8%80%83%E4%BD%A0"
+留念"%E7%95%99%E5%BF%B5"
+准备"%E5%87%86%E5%A4%87"
+谢谢"%E8%B0%A2%E8%B0%A2"
+是ＸＸ女士吗？"%E6%98%AFXX%E5%A5%B3%E5%A3%AB%E5%90%97%EF%BC%9F"
+先生   "%E5%85%88%E7%94%9F"
+"%E6%98%AF%E5%BC%A0%E4%B8%89%E5%85%88%E7%94%9F%E5%90%97%EF%BC%9F"
+新仔"%E6%96%B0%E4%BB%94"
+好的"%E5%A5%BD%E7%9A%84"
+"%E7%9F%B3%E5%A4%B4%E5%89%AA%E5%AD%90%E5%B8%83"
+一见钟情 "%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85"
+新仔你好 "%E6%96%B0%E4%BB%94%E4%BD%A0%E5%A5%BD"
+
+start 改成 test
+Intelligent 留步 特别
+
+Intelligent 先生/女士吗
+	存储性别，回答确认
+
+Intelligent (hello)
+	Test()
+
+test/id (0)
+      // 收集答案：先生/女士吗
+      // 取题
+
+test/id => 显示题目
+test/id/message => 获取、存储答案
+=====================================
+git clone +连接
+git pull origin master
+有error 冲突个IgG！！！！！！！！！！！！！！！！！！！！！！！
+
+git stash 保存本地修改git
+
+git pull origin master
+
+git stash pop 释放本地修改
+
+git add . add本地所有更新的文件
+
+git commit -m "zhushi" 
+git push origin master
+
+
+没error
+git pull origin master
+git add . add本地所有更新的文件
+git commit -m "zhushi" 
+git push origin master
+
+http://eye.insigma.com.cn/insigma
+
+
+
